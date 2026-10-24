@@ -25,7 +25,7 @@ If you discover a security issue in our code or infrastructure, please report it
 1. **Email**:
 
    ```text
-   hoangson091104@gmail.com
+   d3vsolo.dev@gmail.com
    ```
 
 2. **PGP Key** (fingerprint):

@@ -87,14 +87,14 @@ const Footer = () => {
             </Typography>
             <Typography variant="body2">
               Project Maintainer:{' '}
-              <Link href="https://github.com/hoangsonww" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#8d8d8d' } }}>
-                Son Nguyen
+              <Link href="https://github.com/d3vsolodev" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#8d8d8d' } }}>
+              TH3AN
               </Link>
             </Typography>
             <Typography variant="body2">
               Email:{' '}
-              <Link href="mailto:hoangson091104@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#8d8d8d' } }}>
-                hoangson091104@gmail.com
+              <Link href="mailto:d3vsolo.dev@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#8d8d8d' } }}>
+                d3vsolo.dev@gmail.com
               </Link>
             </Typography>
             <Typography variant="body2">Phone: +1 (123) 456-7890</Typography>

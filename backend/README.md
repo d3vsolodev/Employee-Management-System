@@ -311,6 +311,6 @@ For more information about this project, please refer to the comprehensive [docu
 
 ## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please contact [d3vsolo.dev@gmail.com](mailto:d3vsolo.dev@gmail.com).
 
 ---

@@ -3,7 +3,7 @@
 exports[`Footer snapshot matches the rendered markup 1`] = `
 <DocumentFragment>
   <footer
-    class="MuiBox-root css-ix2xpx"
+    class="MuiBox-root css-lbfe2g"
   >
     <div
       class="MuiBox-root css-1inxg8x"
@@ -43,43 +43,43 @@ exports[`Footer snapshot matches the rendered markup 1`] = `
             class="MuiBox-root css-0"
           >
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-1ty68i9-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-9uotvj-MuiTypography-root-MuiLink-root"
               href="/"
             >
               Home
             </a>
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-1ty68i9-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-9uotvj-MuiTypography-root-MuiLink-root"
               href="/dashboard"
             >
               Dashboard
             </a>
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-1ty68i9-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-9uotvj-MuiTypography-root-MuiLink-root"
               href="/employees"
             >
               Employees
             </a>
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-1ty68i9-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-9uotvj-MuiTypography-root-MuiLink-root"
               href="/departments"
             >
               Departments
             </a>
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-1ty68i9-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-9uotvj-MuiTypography-root-MuiLink-root"
               href="/profile"
             >
               Profile
             </a>
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-1ty68i9-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-9uotvj-MuiTypography-root-MuiLink-root"
               href="/login"
             >
               Login
             </a>
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-18xdus5-MuiTypography-root-MuiLink-root"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineNone  css-11ixp25-MuiTypography-root-MuiLink-root"
               href="/register"
             >
               Register
@@ -99,10 +99,10 @@ exports[`Footer snapshot matches the rendered markup 1`] = `
           >
             Project Maintainer: 
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineAlways  css-1hun5y9-MuiTypography-root-MuiLink-root"
-              href="https://github.com/hoangsonww"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineAlways  css-1ew2u8c-MuiTypography-root-MuiLink-root"
+              href="https://github.com/d3vsolodev"
             >
-              Son Nguyen
+              TH3AN
             </a>
           </p>
           <p
@@ -110,10 +110,10 @@ exports[`Footer snapshot matches the rendered markup 1`] = `
           >
             Email: 
             <a
-              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineAlways  css-1hun5y9-MuiTypography-root-MuiLink-root"
-              href="mailto:hoangson091104@gmail.com"
+              class="MuiTypography-root MuiTypography-inherit  MuiLink-root MuiLink-underlineAlways  css-1ew2u8c-MuiTypography-root-MuiLink-root"
+              href="mailto:d3vsolo.dev@gmail.com"
             >
-              hoangson091104@gmail.com
+              d3vsolo.dev@gmail.com
             </a>
           </p>
           <p
@@ -134,7 +134,7 @@ exports[`Footer snapshot matches the rendered markup 1`] = `
         <p
           class="MuiTypography-root MuiTypography-body2  css-1nmqws6-MuiTypography-root"
         >
-          © 2024 Employee Management System. All rights reserved.
+          Customized by TH3AN · Original project by Son Nguyen, used under the MIT License · © 2024
         </p>
       </div>
     </div>

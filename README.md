@@ -1043,7 +1043,7 @@ This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please contact [d3vsolo.dev@gmail.com](mailto:d3vsolo.dev@gmail.com).
 
 ---
 
