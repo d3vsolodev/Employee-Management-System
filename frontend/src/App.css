@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+  background-color: #f4f7fc;
+  margin: 0;
+  padding: 0;
+}
+
+/* react-toastify defaults --toastify-font-family to sans-serif and applies it to
+   .Toastify__toast, so the global Poppins never cascades into toasts. Override the
+   variable and force Poppins on every toast element (body text, close button, etc.). */
+:root {
+  --toastify-font-family: 'Poppins', sans-serif;
+  --toastify-color-success: #059669;
+  --toastify-color-error: #e11d48;
+  --toastify-color-warning: #d97706;
+  --toastify-color-info: #0284c7;
+}
+
+.Toastify,
+.Toastify__toast,
+.Toastify__toast-body,
+.Toastify__toast-body > div,
+.Toastify__close-button {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 1rem;
+}
